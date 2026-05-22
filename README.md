@@ -4,7 +4,7 @@
 
 I design and build production-grade SaaS platforms where AI is a **core system — not an add-on**.
 
-With 8+ years of experience (2017–2026), I’ve worked with organizations like **EY, Vervali Systems, Biz4Group, and StartBit IT Solutions**, delivering scalable, real-world products used by businesses and end users.
+With 8+ years of experience (2017–2026), I’ve worked with organizations like **EY, Vervali Systems, C-DAC, and StartBit IT Solutions**, delivering scalable, real-world products used by businesses and end users.
 
 ---
 
