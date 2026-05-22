@@ -120,7 +120,7 @@ Vercel, Docker, AWS, CI/CD
 ## 🌐 Links
 
 * GitHub: https://github.com/mean-jugal
-* Portfolio: (Add your portfolio link here)
+* Portfolio: https://linkedin.com/jugalchoudhary
 
 ---
 
